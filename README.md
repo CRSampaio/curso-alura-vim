@@ -32,6 +32,7 @@ Este modo é ativo através do modo de blocos (colunas, basicamente), pressionan
 - Y duas vezes = Copia uma linha inteira para área de transferência
 - P = Cola o que estiver na área de transferência para o arquivo
 - GG = Volta a primeira linha do arquivo 
+- Shift+G = Vai até a ultíma linha do arquivo
 - : = Irá abrir o bash e também as opções de comando do VIM
 - vs {nomeArquivo} / Ctrl+W (split no mesmo arquivo) e V = Irá executar o split vertical
 - sp {nomeArquivo} / Ctrl+W (split no mesmo arquivo) e S = Irá executar o split horizontal
