@@ -4,9 +4,11 @@
 
 ### Modo de edição (INSERT) 
 
+Este modo é ativo através do modo de navegação, pressionando i
+
 ### Modo de seleção
 
-Este modo é ativo através do modo de navegação, pressionando V
+Este modo é ativo através do modo de navegação, pressionando v
 
 ### Modo de seleção de linhas
 
@@ -17,19 +19,19 @@ Este modo é ativo através do modo de navegação, pressionando Shift+c
 Este modo é ativo através do modo de blocos (colunas, basicamente), pressionando Ctrl+v
 
 ### Modo de navegação/comando 
-- Q + Qualquer outra tecla = Inicia o modo de gravação. Neste modo, todos os comandos que você executou são gravados, até você entrar no modo de navegação novamente e apertar q para finalizar a gravação. Após isso, toda essa gravação de comandos ficará salva na tecla que você pressionou após ter apertado Q no inicio. Esses comandos podem ser repetidos se você pressionar @ e depois a tecla aonde foi gravado 
-- K = Sobe uma linha 
-- J = Desce uma linha 
-- H = Volta um caracter
-- L = Avança um caracter
-- O = Insere uma nova linha no arquivo e entra no modo de edição
-- D duas vezes = Deleta uma linha
-- X = Corta um caracter
-- U = Undo. Desfaz o ultímo comando executado
-- Ctrl + R = Redo. Refaz o ultímo comando desfeito
-- D = Deleta um caracter 
-- P = Cola o que estiver na área de transferência para o arquivo
-  - Para cada um dos comandos acimas, caso seja digitado um número antes, será avançado/retornado a quantidade de linhas que foi digitado
+- Para cada um dos comandos abaixo, caso seja digitado um número antes, o comando será repetido com a mesma quantidade
+  - K = Sobe uma linha 
+  - J = Desce uma linha 
+  - H = Volta um caracter
+  - L = Avança um caracter
+  - O = Insere uma nova linha no arquivo e entra no modo de edição
+  - D duas vezes = Deleta uma linha
+  - X = Corta um caracter
+  - U = Undo. Desfaz o ultímo comando executado
+  - Ctrl + R = Redo. Refaz o ultímo comando desfeito
+  - D = Deleta um caracter 
+  - P = Cola o que estiver na área de transferência para o arquivo
+  - Q + Qualquer outra tecla = Inicia o modo de gravação. Neste modo, todos os comandos que você executou são gravados, até você entrar no modo de navegação novamente e apertar q para finalizar a gravação. Após isso, toda essa gravação de comandos ficará salva na tecla que você pressionou após ter apertado Q no inicio. Esses comandos podem ser repetidos se você pressionar @ e depois a tecla aonde foi gravado 
 
 - R = Replace. Irá subsituir o texto selecionado, pela proxima letra que você digitar
 - Y duas vezes = Copia uma linha inteira para área de transferência
