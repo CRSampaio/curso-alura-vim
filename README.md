@@ -1,22 +1,22 @@
 # Curso VIM Alura
 
-## Todos os modos
+## Modos
 
-## Modo de edição (INSERT) 
+### Modo de edição (INSERT) 
 
-## Modo de seleção
+### Modo de seleção
 
 Este modo é ativo através do modo de navegação, pressionando V
 
-## Modo de seleção de linhas
+### Modo de seleção de linhas
 
 Este modo é ativo através do modo de navegação, pressionando Shift+c
 
-## Modo de seleção de bloco
+### Modo de seleção de bloco
 
 Este modo é ativo através do modo de blocos (colunas, basicamente), pressionando Ctrl+v
 
-## Modo de navegação/comando 
+### Modo de navegação/comando 
 - Q + Qualquer outra tecla = Inicia o modo de gravação. Neste modo, todos os comandos que você executou são gravados, até você entrar no modo de navegação novamente e apertar q para finalizar a gravação. Após isso, toda essa gravação de comandos ficará salva na tecla que você pressionou após ter apertado Q no inicio. Esses comandos podem ser repetidos se você pressionar @ e depois a tecla aonde foi gravado 
 - K = Sobe uma linha 
 - J = Desce uma linha 
